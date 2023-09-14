@@ -1,7 +1,7 @@
 1) Navigate to the “Settings” tab in GitHub Project
 2) Select the “Webhooks” option on the left menu
 	Click “Add Webhook”
-		For “Payload URL”:
+		For “Payload URL”:.
 			Use the address for the Jenkins server instance (e.g. http://ip:8080)
 			Add /github-webhook/ to the end of it.
 			Note: Make sure to include the last /!

@@ -9,7 +9,7 @@
 3) Select “application/json” as the encoding type
 4) Leave “Secret” blank (unless a secret has been created and configured in the Jenkins “Configure System -> GitHub plugin” section)
 5) Select “Let me select individual events”
-		Enable PUSH event
+		Enable PUSH event.
 		Enable Pull Request event
 6) Make sure “Active” is checked
 7) Click “Add Webhook”.

@@ -12,7 +12,7 @@
 		Enable PUSH event
 		Enable Pull Request event
 6) Make sure “Active” is checked
-7) Click “Add Webhook”
+7) Click “Add Webhook”.
 
 ======================================================================
 
